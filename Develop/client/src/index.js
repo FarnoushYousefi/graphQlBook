@@ -8,6 +8,7 @@ import {
   InMemoryCache,
   createHttpLink,
 } from '@apollo/client';
+import App from './App';
 const httpLink = createHttpLink({
   uri: '/graphql',
 });
@@ -16,7 +17,7 @@ const client = new ApolloClient({
   link: httpLink,
   cache: new InMemoryCache(),
 });
-import App from './App';
+
 
 ReactDOM.render(
   <React.StrictMode>
