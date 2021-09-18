@@ -16,3 +16,7 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
 * Heroku
 # Deploy Link
 https://google-books-graphql.herokuapp.com/
+
+# Refactor Details
+remove controller function to GraphSql mutation queries
+frontend: change api calls into ApploGraphQl
