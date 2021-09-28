@@ -39,7 +39,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## ▶️ Final Output GIF 
 
-![Final Output](./client/images/final-output.gif "Final output of the project") 
+![Final Output](./client/images/booksearch.gif "Final output of the project") 
 
 ## 📝 License 
 
